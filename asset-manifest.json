@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc67ec4f.css",
+    "main.js": "/static/js/main.362898ab.js",
+    "static/media/Ronin.jpg": "/static/media/Ronin.58f2f8ff9c06c0ecde64.jpg",
+    "static/media/TLSPoster.jpg": "/static/media/TLSPoster.61c56dfa6b96163061f9.jpg",
+    "index.html": "/index.html",
+    "main.fc67ec4f.css.map": "/static/css/main.fc67ec4f.css.map",
+    "main.362898ab.js.map": "/static/js/main.362898ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc67ec4f.css",
+    "static/js/main.362898ab.js"
+  ]
+}

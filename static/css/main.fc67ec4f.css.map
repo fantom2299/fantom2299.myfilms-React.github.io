@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.fc67ec4f.css","mappings":"AACA,GACE,iBACF,CAGA,OAEE,iBAAkB,CAClB,kBACF,CAGA,eANE,oBAQF","sources":["style.css"],"sourcesContent":["\nh2 {\n  text-align: center;\n}\n\n\n.movie {\n  display: inline-block;\n  margin-left: 740px;\n  margin-right: 100px;\n}\n\n\n.movies {\n  display: inline-block;\n}\n"],"names":[],"sourceRoot":""}
